@@ -1,0 +1,62 @@
+#wrap {
+    background: #fff;
+    width: 900px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+#nheader {
+    width: 100%;
+    margin: 5 auto;
+    margin-bottom: 10px;
+    overflow: hidden;    
+}
+.xxxxx1 {
+    width: 100%;
+    margin: 5 auto;
+    margin-bottom: 10px;
+    overflow: hidden;    
+}
+#nparagraph {
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    overflow: hidden;
+}
+.xxxxx2 {
+    background-color: bisque;
+    width: 40%;
+    margin: 0px 30px 0 30px;
+    overflow: hidden;
+    float: left;
+}
+.xxxxx3 {
+    background-color: burlywood;
+    width: 40%;
+    margin: 0px 30px 0 30px;
+    overflow: hidden;
+    float: right;
+}
+.xxxxx2 img, .xxxxx3 img {
+    margin: 10px 91px 10px 91px;
+    width: 268px;
+    height: 211px;
+    float: none;
+    padding: 0px;
+    overflow: hidden;
+}
+.boturfers {
+    border: 1px solid #dedede;
+    border-collapse: collapse;
+    font-size: 12px;
+    font-family: tahoma;
+    font-weight: 600;
+    width: 100%;
+    margin: 0px auto;
+    overflow: hidden;
+}
+p {
+    margin-top: 10px;
+    font-size: 13px;
+    text-align: center;
+    font-weight: 600;
+}
