@@ -1,0 +1,93 @@
+#wrap {
+    background: #fff;
+    width: 900px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+#nheader {
+    width: 100%;
+    margin: 5 auto;
+    margin-bottom: 10px;
+    overflow: hidden;    
+}
+.xxxxx1 {
+    width: 100%;
+    margin: 5 auto;
+    margin-bottom: 10px;
+    overflow: hidden;    
+}
+#nparagraph {
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    overflow: hidden;
+}
+.xxxxx2 {
+    background: linear-gradient(to bottom,#000000 0,#770808 100%);
+    width: 40%;
+    margin: 3px 30px 3px 30px;
+    overflow: hidden;
+    float: left;
+    border: 1px solid #770808;
+    border-radius: 3px;
+    box-shadow: 0 0 4px 0 rgba(0,0,0,.5);
+}
+.xxxxx3 {
+    background: linear-gradient(to bottom,#000000 0,#770808 100%);
+    width: 40%;
+    margin: 3px 30px 3px 30px;
+    overflow: hidden;
+    float: right;
+    border: 1px solid #770808;
+    border-radius: 3px;
+    box-shadow: 0 0 4px 0 rgba(0,0,0,.5);
+}
+.xxxxx2 img, .xxxxx3 img {
+    margin: 10px 91px 10px 91px;
+    width: 268px;
+    height: 211px;
+    float: none;
+    padding: 0px;
+    overflow: hidden;
+}
+.boturfers {
+    border: 1px solid #dedede;
+    border-collapse: collapse;
+    font-size: 12px;
+    font-family: tahoma;
+    font-weight: 600;
+    width: 100%;
+    margin: 0px auto;
+    overflow: hidden;
+}
+p {
+    margin-top: 10px;
+    font-size: 13px;
+    text-align: center;
+    font-weight: 600;
+}
+.xxxxx2 h2, .xxxxx3 h2 {
+    font-family: tahoma;
+    color: #fff;
+    width: 100%;
+    font-size: 19px;
+    padding: 3px 55px 0px 55px;
+    font-weight: 600;
+}
+.xxxxx2 p, .xxxxx3 p {
+    color: #fff;
+    font-family: tahoma;
+    width: 100%;
+    font-size: 20px;
+    padding: 10px 55px 0px 55px;
+}
+h2 {
+    background: linear-gradient(to bottom,#000000 0,#770808 100%);
+    height: 40px;
+    line-height: 40px;
+    color: #fff;
+    padding-left: 15px;
+    font-size: 17px;
+    border-radius: 3px;
+    box-shadow: 0 0 4px 0 rgba(0,0,0,.5);
+}
